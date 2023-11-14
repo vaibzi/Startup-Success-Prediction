@@ -36,7 +36,7 @@ There are 48 columns/features. Some of the features are:
 some other organisation, means the startup succeed)
 
 
-Methodology:
+# Methodology:
 
 1. Data Preprocessing:
    
